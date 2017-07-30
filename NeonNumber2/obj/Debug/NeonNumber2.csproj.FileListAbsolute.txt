@@ -1,0 +1,6 @@
+c:\users\ikechukwu\documents\visual studio 2015\Projects\NeonNumber2\NeonNumber2\bin\Debug\NeonNumber2.exe.config
+c:\users\ikechukwu\documents\visual studio 2015\Projects\NeonNumber2\NeonNumber2\bin\Debug\NeonNumber2.exe
+c:\users\ikechukwu\documents\visual studio 2015\Projects\NeonNumber2\NeonNumber2\bin\Debug\NeonNumber2.pdb
+c:\users\ikechukwu\documents\visual studio 2015\Projects\NeonNumber2\NeonNumber2\obj\Debug\NeonNumber2.csprojResolveAssemblyReference.cache
+c:\users\ikechukwu\documents\visual studio 2015\Projects\NeonNumber2\NeonNumber2\obj\Debug\NeonNumber2.exe
+c:\users\ikechukwu\documents\visual studio 2015\Projects\NeonNumber2\NeonNumber2\obj\Debug\NeonNumber2.pdb
